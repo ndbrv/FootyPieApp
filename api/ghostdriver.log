@@ -1,0 +1,137 @@
+[INFO  - 2022-01-16T00:01:43.831Z] GhostDriver - Main - running on port 61026
+[INFO  - 2022-01-16T00:01:48.267Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2022-01-16T00:01:48.269Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.customHeaders:  - {}
+[INFO  - 2022-01-16T00:01:48.270Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-01-16T00:01:48.270Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7ff89150-765f-11ec-9bec-27c42e5b7f53
+[ERROR - 2022-01-16T00:01:50.336Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.endsWith("-f")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-01-16T00:01:50.337Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - stack:
+  fb_front_countryChoice_update_small (https://d2p3bygnnzw9w3.cloudfront.net/req/202201141/js/fb/sr-min-en.js:1)
+  fb_front_countryChoice_default (https://d2p3bygnnzw9w3.cloudfront.net/req/202201141/js/fb/sr-min-en.js:1)
+  fb_front_country_choice (https://d2p3bygnnzw9w3.cloudfront.net/req/202201141/js/fb/sr-min-en.js:1)
+  sr_fire_js (https://d2p3bygnnzw9w3.cloudfront.net/req/202201141/js/fb/sr-min-en.js:1)
+  vjs_ready (https://fbref.com/en/:201)
+  (anonymous function) (https://fbref.com/en/:206)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-01-16T00:01:50.514Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - msg: ReferenceError: Can't find variable: Map
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-01-16T00:01:50.514Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - stack:
+  e (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-01-16T00:01:55.117Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - msg: ReferenceError: Can't find variable: Map
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-01-16T00:01:55.118Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - stack:
+  e (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  n (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+  (anonymous function) (https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=fbref.com:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-01-16T00:01:55.452Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - msg: SyntaxError: DOM Exception 12: An invalid or illegal string was specified.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-01-16T00:01:55.453Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - stack:
+  querySelector (https://d2p3bygnnzw9w3.cloudfront.net/req/202201141/js/fb/sr-min-en.js:1)
+  sr_st_check_for_perMatch (https://d2p3bygnnzw9w3.cloudfront.net/req/202201141/js/fb/sr-min-en.js:1)
+  sr_st_statline_appendTableControls (https://d2p3bygnnzw9w3.cloudfront.net/req/202201141/js/fb/sr-min-en.js:1)
+  (anonymous function) (https://d2p3bygnnzw9w3.cloudfront.net/req/202201141/js/fb/sr-min-en.js:1)
+  forEach (:0)
+  sr_st_construct_stats_table_features (https://d2p3bygnnzw9w3.cloudfront.net/req/202201141/js/fb/sr-min-en.js:1)
+  (anonymous function) (https://d2p3bygnnzw9w3.cloudfront.net/req/202201141/js/fb/sr-min-en.js:1)
+  forEach (:0)
+  sr_fire_js (https://d2p3bygnnzw9w3.cloudfront.net/req/202201141/js/fb/sr-min-en.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-01-16T00:01:56.335Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - msg: TypeError: Invalid attempt to spread non-iterable instance
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-01-16T00:01:56.336Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - stack:
+  o (https://js.hscollectedforms.net/collectedforms.js:1)
+  u (https://js.hscollectedforms.net/collectedforms.js:1)
+  (anonymous function) (https://js.hscollectedforms.net/collectedforms.js:1)
+  forEach (:0)
+  (anonymous function) (https://js.hscollectedforms.net/collectedforms.js:1)
+  forEach (:0)
+  (anonymous function) (https://js.hscollectedforms.net/collectedforms.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-01-16T00:01:56.958Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - msg: TypeError: Invalid attempt to spread non-iterable instance
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-01-16T00:01:56.960Z] Session [7ff89150-765f-11ec-9bec-27c42e5b7f53] - page.onError - stack:
+  o (https://js.hscollectedforms.net/collectedforms.js:1)
+  u (https://js.hscollectedforms.net/collectedforms.js:1)
+  (anonymous function) (https://js.hscollectedforms.net/collectedforms.js:1)
+  forEach (:0)
+  (anonymous function) (https://js.hscollectedforms.net/collectedforms.js:1)
+  forEach (:0)
+  (anonymous function) (https://js.hscollectedforms.net/collectedforms.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2022-01-16T00:06:43.831Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T00:11:43.837Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T00:16:43.837Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T00:21:43.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T00:26:43.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T00:31:43.878Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T00:36:43.884Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T00:41:43.884Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T00:46:43.884Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T00:51:43.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T00:56:43.893Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:01:43.901Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:06:43.915Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:11:43.935Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:16:43.932Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:21:43.943Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:26:43.943Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:31:43.943Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:36:43.944Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:41:43.951Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:46:43.952Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:51:43.957Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T01:56:43.969Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T02:01:43.970Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T02:06:43.980Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T02:11:43.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T02:16:43.995Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T02:21:44.012Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T02:26:44.016Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T02:31:44.020Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T02:36:44.021Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T02:41:44.021Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2022-01-16T02:46:44.031Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
