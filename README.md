@@ -1,5 +1,5 @@
 # FootyPie
-Soccer Statisticats Visualization Tool with Data from FBRef
+Soccer Statisticats Visualization Tool with data from FBRef
 
 <h1> Front End </h1>
 
