@@ -1,6 +1,5 @@
 # FootyPie
-How To Install the App Locally
-
+Soccer Statisticats Visualization Tool with Data from FBRef
 
 <h1> Front End </h1>
 
